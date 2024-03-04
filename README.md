@@ -1,1 +1,1 @@
-# synthact
+# SynthAct: Towards Generalizable Human Action Recognition based on Synthetic Data
